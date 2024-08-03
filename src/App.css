@@ -1,0 +1,32 @@
+.R60 {
+    width: 80%;
+    margin-left: 15%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+
+  }
+  
+  .product {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 200px;
+  }
+  
+  .product-content {
+    padding: 16px;
+    text-align: center;
+  }
+  
+  .product-image {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  h2 {
+    font-size: 1.2em;
+    margin-top: 8px;
+  }
+  
